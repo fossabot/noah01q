@@ -1,0 +1,3 @@
+- 👋 Hi, I’m noah01q
+- 🌱 I’m currently learning HTML/CSS
+- 📫 How to reach me: Email me @ noah@noah01q.xyz
